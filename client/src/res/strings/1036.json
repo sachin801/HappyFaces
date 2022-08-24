@@ -1,0 +1,34 @@
+{
+	"NAVIGATION_BAR_DASHBOARD": {
+		"description": "Dashboard label",
+		"value": "Tableau de bord"
+	},
+	"NAVIGATION_BAR_FORUMS": {
+		"description": "Forums label",
+		"value": "Forums"
+	},
+	"NAVIGATION_BAR_CONTACTS": {
+		"description": "Contacts menu item",
+		"value": "Contacts"
+	},
+	"NAVIGATION_BAR_NEWS": {
+		"description": "News label",
+		"value": "News"
+	},
+	"NAVIGATION_BAR_EVENTS": {
+		"description": "Events label",
+		"value": "Events"
+	},
+	"NAVIGATION_BAR_COUNCELLORS": {
+		"description": "Councellors label",
+		"value": "Councellors"
+	},
+	"NAVIGATION_BAR_LOGIN": {
+		"description": "Login button",
+		"value": "Connectez"
+	},
+	"NAVIGATION_BAR_LOGOUT": {
+		"description": "Logout button",
+		"value": "Déconnectez"
+	}
+}
