@@ -1,7 +1,8 @@
 # HappyFaces
-Happy Faces is a web application created for people with mental disabilities. The application aims
-to create an environment for people who are suffering any sort of illnesses alike depression,
-anxiety, trauma by providing them on-demand counselling, providing access to support groups.
+This application seeks to provide various functionalities such as video chat, 24*7 availability of 
+counsellors, support groups, helpline information, positive info related to healing from mental 
+barriers. Counselling is provided in various fields like:- mental, educational, law, financial etc. 
+by respective counsellors.
 
 
 ## Problem Definition:
